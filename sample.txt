@@ -1,5 +1,5 @@
 This is sample text
-How are you 
+How are you
 This is training
-this is 
-
+This is 
+This is dev1
